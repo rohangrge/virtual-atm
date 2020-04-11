@@ -452,6 +452,7 @@ int g;
         printf("\t\t\tOTP VERIFICATION FAILED,Please retry\n");
         delay(4);
         otp();     
+        delay(10);
 
     }
 } 
